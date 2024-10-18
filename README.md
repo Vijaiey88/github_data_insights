@@ -53,7 +53,7 @@ To set up the application locally, follow these steps:
 
 ## Demo
 
-![Github Data Insights](https://github.com/Vijaiey88/github_data_insights/issues/1#issue-2596771774)
+![Github Data Insights]([https://github.com/Vijaiey88/github_data_insights/issues/1#issue-2596771774](https://github.com/user-attachments/assets/4d65d95b-93cc-4bdb-9c5d-4aa2cc919610))
 
 ## Usage
 The application provides the following functionalities:
